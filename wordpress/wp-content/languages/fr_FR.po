@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.4.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-04-01 13:29:23+0000\n"
+"PO-Revision-Date: 2020-04-09 12:34:08+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1775,7 +1775,7 @@ msgstr "Flux des publications"
 
 #: wp-includes/script-loader.php:864
 msgid "Unexpected response from the server. The file may have been uploaded successfully. Check in the Media Library or reload the page."
-msgstr "Le serveur a renvoyé une réponse inattendue. Cependant, le fichier a peut-être été bien téléversé. Veuillez vérifier dans la bibliothèque de médias ou rafraîchir la page."
+msgstr "Le serveur a renvoyé une réponse inattendue. Cependant, le fichier a peut-être été bien téléversé. Veuillez vérifier dans la bibliothèque de médias ou actualiser la page."
 
 #: wp-load.php:83
 msgid "https://wordpress.org/support/article/editing-wp-config-php/"
@@ -13286,7 +13286,7 @@ msgstr "Gérer les images"
 
 #: wp-includes/post.php:1710
 msgid "Uploaded to this page"
-msgstr "Téléversé sur cette page"
+msgstr "Téléversés sur cette page"
 
 #: wp-includes/post.php:1709
 msgid "Insert into page"
@@ -13301,7 +13301,7 @@ msgstr "Son"
 
 #: wp-includes/post.php:1710
 msgid "Uploaded to this post"
-msgstr "Téléversé sur cette publication"
+msgstr "Téléversés sur cette publication"
 
 #: wp-includes/media.php:3906
 msgid "All media items"

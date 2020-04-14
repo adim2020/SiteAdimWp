@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Elementor Page Builder - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-03-12 08:31:45+0000\n"
+"PO-Revision-Date: 2020-04-07 10:42:36+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -165,7 +165,7 @@ msgstr "Style global"
 
 #: core/kits/manager.php:68
 msgid "Theme Style"
-msgstr "Style par défaut"
+msgstr "Styles du thème"
 
 #: core/kits/manager.php:67
 msgid "Back"
@@ -205,7 +205,7 @@ msgstr "Boutons"
 
 #: core/kits/documents/kit.php:131
 msgid "In order for Theme Style to affect all relevant Elementor elements, please disable Default Colors and Fonts from the <a href=\"%s\" target=\"_blank\">Settings Page</a>."
-msgstr "Pour que le style par défaut affecte tous les éléments Elementor pertinents, veuillez désactiver les couleurs et les polices par défaut via la <a href=\"%s\" target=\"_blank\">Page des réglages</a>."
+msgstr "Pour que les styles du thème affectent tous les éléments Elementor pertinents, veuillez désactiver les couleurs et les polices par défaut via la <a href=\"%s\" target=\"_blank\">Page des réglages</a>."
 
 #: core/kits/documents/kit.php:84
 msgid "Draft"
